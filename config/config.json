@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "oaqY50ltg",
+    "database": "seq_burgers_db",
+    "port": 3306,
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "oaqY50ltg",
+    "database": "seq_burgers_db",
+    "port": 3306,
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "oaqY50ltg",
+    "database": "seq_burgers_db",
+    "port": 3306,
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
